@@ -13,22 +13,22 @@
 ### My current stack
 <div style="display: flex; gap: 1rem;">
     <a href="#">
-        <img src="./images/react-icon.png" width="40px" alt="react" />
+        <img src="./images/react-icon.png" width="60" height="60" alt="react" />
     </a>
     <a href="#">
-        <img src="./images/angular-icon.png" width="40px" alt="angular" />
+        <img src="./images/angular-icon.png" width="60" height="60" alt="angular" />
     </a>
     <a href="#">
-        <img src="./images/node-icon.png" width="40px" alt="node" />
+        <img src="./images/node-icon.png" width="60" height="60" alt="node" />
     </a>
     <a href="#">
-        <img src="./images/docker-icon.png" width="40px" alt="docker" />
+        <img src="./images/docker-icon.png" width="60" height="60" alt="docker" />
     </a>
     <a href="#">
-        <img src="./images/mysql-icon.png" width="40px" alt="mysql" />
+        <img src="./images/mysql-icon.png" width="60" height="60" alt="mysql" />
     </a>
     <a href="#">
-        <img src="./images/mongo-icon.png" width="40px" alt="mongo" />
+        <img src="./images/mongo-icon.png" width="60" height="60" alt="mongo" />
     </a>
 </div>
 
