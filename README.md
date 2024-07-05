@@ -14,6 +14,10 @@
 ### Connect with me
 
 <div style="display: flex; gap: 10px;">
-    <img src="./images/facebook-icon.png" width="40px" alt="facebook" />
-    <img src="./images/Instagram-icon.png" width="40px" alt="instagram" />
+    <a href="https://www.facebook.com/profile.php?id=100007518766155" target="_blank">
+        <img src="./images/facebook-icon.png" width="40px" alt="facebook" />
+    </a>
+    <a href="https://www.instagram.com/b_devtool9to9/" target="_blank">
+        <img src="./images/Instagram-icon.png" width="40px" alt="instagram" />
+    </a>
 </div>
