@@ -1,7 +1,7 @@
-Hi, I'm Bob 👋
+<h2>Hi, I'm Bob </h2> 👋
 
 <div style="margin: '10px 0'">
-    <hr></hr>
+    <div></div>
 </div>
 
 <h2>My journalist</h2>
