@@ -22,7 +22,7 @@
 
 
 ### My current stack
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 1rem;">
     <a href="#">
         <img src="./images/react-icon.png" width="40px" alt="react" />
     </a>
