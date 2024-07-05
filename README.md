@@ -6,4 +6,7 @@
 
 ### About me: 👻
 
-<p>I am a CS</p>
+<p>I am a CS undergraduate at  <strong>National University of Laos.</strong> </p>
+<p>Working as a Front-end Developer</p>
+
+<p>I am web developer who likes coding and find a new technology and contribute to open source projects. </p>
