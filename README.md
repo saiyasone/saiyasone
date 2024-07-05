@@ -14,6 +14,6 @@
 ### Connect with me
 
 <div style="display: flex; gap: 10px;">
-    <img src="./images/facebook-icon.png" alt="facebook" />
-    <img src="./images/Instagram-icon.png" alt="instagram" />
+    <img src="./images/facebook-icon.png" width="40px" alt="facebook" />
+    <img src="./images/Instagram-icon.png" width="40px" alt="instagram" />
 </div>
