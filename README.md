@@ -10,15 +10,19 @@
 
 <p>I am web developer who likes coding and find a new technology and contribute to open source projects. </p>
 
-### Connect with me
-<div style="display: flex; gap: 10px;">
+### Get in touch
+<ul>
+    <li> Facebook: <a href="https://www.facebook.com/profile.php?id=100007518766155" target="_blank"></a>
+    <li> Instagram: <a href="https://www.instagram.com/b_devtool9to9/" target="_blank"></a>
+</ul>
+<!-- <div style="display: flex; gap: 10px;">
     <a href="https://www.facebook.com/profile.php?id=100007518766155" target="_blank">
         <img src="./images/facebook-icon.png" width="40px" alt="facebook" />
     </a>
     <a href="https://www.instagram.com/b_devtool9to9/" target="_blank">
         <img src="./images/Instagram-icon.png" width="40px" alt="instagram" />
     </a>
-</div>
+</div> -->
 
 
 ### My current stack
