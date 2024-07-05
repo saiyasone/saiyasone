@@ -4,6 +4,6 @@
     <div></div>
 </div>
 
-<h4>About me: 👻</h4>
+### About me: 👻
 
 <p>I am a CS</p>
