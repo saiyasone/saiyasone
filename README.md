@@ -33,6 +33,9 @@
         <img src="./images/node-icon.png" width="40px" alt="node" />
     </a>
     <a href="#">
+        <img src="./images/docker-icon.png" width="40px" alt="docker" />
+    </a>
+    <a href="#">
         <img src="./images/mysql-icon.png" width="40px" alt="mysql" />
     </a>
     <a href="#">
