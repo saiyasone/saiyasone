@@ -12,8 +12,8 @@
 
 ### Get in touch
 <ul>
-    <li> Facebook: <a href="https://www.facebook.com/profile.php?id=100007518766155" target="_blank"></a>
-    <li> Instagram: <a href="https://www.instagram.com/b_devtool9to9/" target="_blank"></a>
+    <li> Facebook: <a href="https://www.facebook.com/profile.php?id=100007518766155" target="_blank">https://www.facebook.com/profile.php?id=100007518766155</a>
+    <li> Instagram: <a href="https://www.instagram.com/b_devtool9to9/" target="_blank">https://www.instagram.com/b_devtool9to9</a>
 </ul>
 <!-- <div style="display: flex; gap: 10px;">
     <a href="https://www.facebook.com/profile.php?id=100007518766155" target="_blank">
