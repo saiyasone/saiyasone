@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Bob 👋 </h2> 
 
-<div style="margin: '12px 0'">
+<div style="margin: 12px 0;">
     <!-- <div></div> -->
 </div>
 
@@ -10,3 +10,10 @@
 <p>Working as a Front-end Developer</p>
 
 <p>I am web developer who likes coding and find a new technology and contribute to open source projects. </p>
+
+### Connect with me
+
+<div style="display: flex; gap: 10px;">
+    <img src="./images/facebook-icon.png" alt="facebook" />
+    <img src="./images/Instagram-icon.png" alt="instagram" />
+</div>
